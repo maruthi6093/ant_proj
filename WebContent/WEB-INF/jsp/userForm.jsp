@@ -16,7 +16,7 @@
 			<td><form:input path="password" /></td>
 		</tr>
 		<tr>
-			<td>Student Password :</td>
+			<td>kasturi password :</td>
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
