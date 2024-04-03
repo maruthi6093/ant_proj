@@ -12,8 +12,8 @@
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
-			<td>Student Name :</td>
-			<td><form:input path="name" /></td>
+			<td>maruthi:</td>
+			<td><form:input path="password" /></td>
 		</tr>
 		<tr>
 			<td>Student Password :</td>
